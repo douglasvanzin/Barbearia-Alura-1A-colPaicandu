@@ -1,9 +1,16 @@
+body {
+    background: #147c87e1;
+}
+
 h1 {
     text-align: center;
-    background: #147c87e1;
+    color: darkred;
 }
 
 p {
     text-align: center;
-    background: #6ce60f;
+}
+
+em strong {
+    color: coral;
 }
